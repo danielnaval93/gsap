@@ -1,0 +1,74 @@
+img {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+#logo {
+    top: 220px;
+}
+#logo2 {
+    top: 420px;
+}
+#logo3 {
+    top: 620px;
+}
+#logo4 {
+    top: 820px;
+}
+.box {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    float:left;
+}
+#demo {
+    width: 692px;
+    height: 60px;
+    background-color: #333;
+    padding: 8px;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+#pink{
+    background-color: pink;
+}
+#purple{
+    background-color: purple;
+}
+#demoBackground{
+    width:1000px;
+    height:70px;
+}  
+#timelinelite{
+    position:absolute;
+    background: url(Alex.svg) no-repeat;
+    left:200px;
+    top:820px;
+    width: 180px;
+    height: 180px;
+    overflow:hidden;
+}    
+#tagline{
+    position:absolute;    
+    left:400px;
+    top:820px;
+    width:306px;
+    height:306px;
+}        
+#tagline span{
+    position:relative;
+    display:inline-block;
+    width: 200px;
+    height: 200px;
+}
